@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636144821084",
+    "firebase_url": "https://kitesurfingapp-1efe9.firebaseio.com",
+    "project_id": "kitesurfingapp-1efe9",
+    "storage_bucket": "kitesurfingapp-1efe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636144821084:android:5e5f435ef44cc2ad",
+        "android_client_info": {
+          "package_name": "com.example.kitesurfingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636144821084-ffm8vl8o73b60eflbt32nuijf40sf2ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kitesurfingapp",
+            "certificate_hash": "81fb25fcf994335a79908db0e823178d189c051b"
+          }
+        },
+        {
+          "client_id": "636144821084-iqu9gauj4ap0te4aslf6c9djf0edm9us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6-IpKJpXOBGmZ-OZzlqfwAFIhd3M2I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636144821084-iqu9gauj4ap0te4aslf6c9djf0edm9us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
